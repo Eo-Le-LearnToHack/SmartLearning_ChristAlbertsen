@@ -1,0 +1,15 @@
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\bin\Debug\net6.0\3 Øvelser.exe
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\bin\Debug\net6.0\3 Øvelser.deps.json
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\bin\Debug\net6.0\3 Øvelser.runtimeconfig.json
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\bin\Debug\net6.0\3 Øvelser.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\bin\Debug\net6.0\3 Øvelser.pdb
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\obj\Debug\net6.0\3 Øvelser.csproj.AssemblyReference.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\obj\Debug\net6.0\3 Øvelser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\obj\Debug\net6.0\3 Øvelser.AssemblyInfoInputs.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\obj\Debug\net6.0\3 Øvelser.AssemblyInfo.cs
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\obj\Debug\net6.0\3 Øvelser.csproj.CoreCompileInputs.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\obj\Debug\net6.0\3 Øvelser.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\obj\Debug\net6.0\refint\3 Øvelser.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\obj\Debug\net6.0\3 Øvelser.pdb
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\obj\Debug\net6.0\3 Øvelser.genruntimeconfig.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\3 Øvelser\3 Øvelser\obj\Debug\net6.0\ref\3 Øvelser.dll

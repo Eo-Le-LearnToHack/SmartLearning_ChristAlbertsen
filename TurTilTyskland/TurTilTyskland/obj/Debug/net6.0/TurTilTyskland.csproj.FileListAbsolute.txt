@@ -1,0 +1,15 @@
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\bin\Debug\net6.0\TurTilTyskland.exe
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\bin\Debug\net6.0\TurTilTyskland.deps.json
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\bin\Debug\net6.0\TurTilTyskland.runtimeconfig.json
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\bin\Debug\net6.0\TurTilTyskland.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\bin\Debug\net6.0\TurTilTyskland.pdb
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\obj\Debug\net6.0\TurTilTyskland.csproj.AssemblyReference.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\obj\Debug\net6.0\TurTilTyskland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\obj\Debug\net6.0\TurTilTyskland.AssemblyInfoInputs.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\obj\Debug\net6.0\TurTilTyskland.AssemblyInfo.cs
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\obj\Debug\net6.0\TurTilTyskland.csproj.CoreCompileInputs.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\obj\Debug\net6.0\TurTilTyskland.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\obj\Debug\net6.0\refint\TurTilTyskland.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\obj\Debug\net6.0\TurTilTyskland.pdb
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\obj\Debug\net6.0\TurTilTyskland.genruntimeconfig.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\Source code\TurTilTyskland\TurTilTyskland\obj\Debug\net6.0\ref\TurTilTyskland.dll

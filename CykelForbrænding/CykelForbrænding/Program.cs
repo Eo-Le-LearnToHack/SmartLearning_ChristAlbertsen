@@ -1,13 +1,16 @@
 ﻿
 class BikingMetrics
 {
-    static public double calories_per_kg = 0.33;
+    //default value for calories burned
+    static private double calories_per_kg = 0.33;
+
 
     static public void calc_cal_burn(double km_biked, double body_weight)
-    {
+    {//calculate calories burned
         Console.WriteLine($"Biking {km_biked}km with a body weight of {body_weight} kg means burning " +
             $"{calories_per_kg * km_biked * body_weight} kcal \n");
     }
+
 
     static private void method_repeater(double[] repeated_items, double arg, Action<double, double> method)
     {//repeats the method argument keeping arg fixed while iterating over repeated_items
@@ -17,9 +20,10 @@ class BikingMetrics
         }
     }
 
+
     static private double ReadLine_validated()
-    {
-        //validate the user input.
+    {//validate the user input.
+
         string temp_input;
         double user_input;
         bool conversion_result = true;
@@ -33,12 +37,11 @@ class BikingMetrics
 
             conversion_result = !double.TryParse(temp_input, out user_input);
             if (conversion_result) Console.WriteLine("The input value wasn't a double value, please try again.");
-
-
         } while (conversion_result);
 
         return user_input;
     }
+
 
     static void Main()
     {
@@ -47,6 +50,7 @@ class BikingMetrics
         Console.WriteLine("Calculate your calories burned biking! \n" +
                           "Here's examples of three calculations \n ");
 
+        //calculate calories burned for each person and varying trip lengths
         Console.WriteLine($"Person 1:");
         method_repeater(default_length, 84, calc_cal_burn);
 
@@ -63,6 +67,7 @@ class BikingMetrics
         do
         {
             Console.WriteLine("\nDo you want to try it for yourself (write `exit` to cancel)?");
+
             //get user weight
             Console.WriteLine("\nWhats your weight (in kg)?");
             user_input_weight = ReadLine_validated();
@@ -79,6 +84,5 @@ class BikingMetrics
         } while (true);
 
         Console.WriteLine("\n\nThanks for trying out! \n\n");
-
     }
 }

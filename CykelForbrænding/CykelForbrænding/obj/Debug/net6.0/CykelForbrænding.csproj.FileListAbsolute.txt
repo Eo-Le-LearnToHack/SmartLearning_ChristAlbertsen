@@ -1,0 +1,15 @@
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\obj\Debug\net6.0\CykelForbrænding.csproj.AssemblyReference.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\obj\Debug\net6.0\CykelForbrænding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\obj\Debug\net6.0\CykelForbrænding.AssemblyInfoInputs.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\obj\Debug\net6.0\CykelForbrænding.AssemblyInfo.cs
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\obj\Debug\net6.0\CykelForbrænding.csproj.CoreCompileInputs.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\bin\Debug\net6.0\CykelForbrænding.exe
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\bin\Debug\net6.0\CykelForbrænding.deps.json
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\bin\Debug\net6.0\CykelForbrænding.runtimeconfig.json
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\bin\Debug\net6.0\CykelForbrænding.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\bin\Debug\net6.0\CykelForbrænding.pdb
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\obj\Debug\net6.0\CykelForbrænding.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\obj\Debug\net6.0\refint\CykelForbrænding.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\obj\Debug\net6.0\CykelForbrænding.pdb
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\obj\Debug\net6.0\CykelForbrænding.genruntimeconfig.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\CykelForbrænding\CykelForbrænding\obj\Debug\net6.0\ref\CykelForbrænding.dll

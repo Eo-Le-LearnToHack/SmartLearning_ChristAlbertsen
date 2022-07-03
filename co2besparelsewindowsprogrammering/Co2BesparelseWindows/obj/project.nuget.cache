@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lH69npITNGh3PUnJuj1fLBUMrPedXdEc4lt3D/+QXItG3d4YMfmr0EiyU7aBjRU5aj710Q5fKmElfTFdBqJ8lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ChrisAlbertsen\\Desktop\\SmartLearning\\git\\co2besparelsewindowsprogrammering\\Co2BesparelseWindows\\Co2BesparelseWindows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChrisAlbertsen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

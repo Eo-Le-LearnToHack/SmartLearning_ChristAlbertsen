@@ -1,0 +1,15 @@
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\bin\Debug\net6.0\Word2VecProgrammering.exe
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\bin\Debug\net6.0\Word2VecProgrammering.deps.json
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\bin\Debug\net6.0\Word2VecProgrammering.runtimeconfig.json
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\bin\Debug\net6.0\Word2VecProgrammering.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\bin\Debug\net6.0\Word2VecProgrammering.pdb
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\obj\Debug\net6.0\Word2VecProgrammering.csproj.AssemblyReference.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\obj\Debug\net6.0\Word2VecProgrammering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\obj\Debug\net6.0\Word2VecProgrammering.AssemblyInfoInputs.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\obj\Debug\net6.0\Word2VecProgrammering.AssemblyInfo.cs
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\obj\Debug\net6.0\Word2VecProgrammering.csproj.CoreCompileInputs.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\obj\Debug\net6.0\Word2VecProgrammering.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\obj\Debug\net6.0\refint\Word2VecProgrammering.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\obj\Debug\net6.0\Word2VecProgrammering.pdb
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\obj\Debug\net6.0\Word2VecProgrammering.genruntimeconfig.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\word2vecprogrammering\Word2VecProgrammering\obj\Debug\net6.0\ref\Word2VecProgrammering.dll

@@ -1,0 +1,16 @@
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\obj\Debug\net5.0\Tegneprogram.csproj.AssemblyReference.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\obj\Debug\net5.0\Tegneprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\obj\Debug\net5.0\Tegneprogram.AssemblyInfoInputs.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\obj\Debug\net5.0\Tegneprogram.AssemblyInfo.cs
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\obj\Debug\net5.0\Tegneprogram.csproj.CoreCompileInputs.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\bin\Debug\net5.0\Tegneprogram.exe
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\bin\Debug\net5.0\Tegneprogram.deps.json
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\bin\Debug\net5.0\Tegneprogram.runtimeconfig.json
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\bin\Debug\net5.0\Tegneprogram.runtimeconfig.dev.json
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\bin\Debug\net5.0\Tegneprogram.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\bin\Debug\net5.0\Tegneprogram.pdb
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\obj\Debug\net5.0\Tegneprogram.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\obj\Debug\net5.0\refint\Tegneprogram.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\obj\Debug\net5.0\Tegneprogram.pdb
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\obj\Debug\net5.0\Tegneprogram.genruntimeconfig.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\tegneprogram\Tegneprogram\obj\Debug\net5.0\ref\Tegneprogram.dll

@@ -1,0 +1,15 @@
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\bin\Debug\net6.0\IsBeregner.exe
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\bin\Debug\net6.0\IsBeregner.deps.json
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\bin\Debug\net6.0\IsBeregner.runtimeconfig.json
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\bin\Debug\net6.0\IsBeregner.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\bin\Debug\net6.0\IsBeregner.pdb
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\obj\Debug\net6.0\IsBeregner.csproj.AssemblyReference.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\obj\Debug\net6.0\IsBeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\obj\Debug\net6.0\IsBeregner.AssemblyInfoInputs.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\obj\Debug\net6.0\IsBeregner.AssemblyInfo.cs
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\obj\Debug\net6.0\IsBeregner.csproj.CoreCompileInputs.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\obj\Debug\net6.0\IsBeregner.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\obj\Debug\net6.0\refint\IsBeregner.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\obj\Debug\net6.0\IsBeregner.pdb
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\obj\Debug\net6.0\IsBeregner.genruntimeconfig.cache
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\IsBeregner\IsBeregner\obj\Debug\net6.0\ref\IsBeregner.dll

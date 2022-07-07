@@ -27,26 +27,34 @@ namespace FormueConnect
         private async void LoginClick(object sender, RoutedEventArgs e)
         {
             // User data from UI fields
-            string username = Username.Text;
-            string server = Server.Text;
-            string database = Database.Text;
 
-            // If relevant create multiple methods and a switch method to allow users to select login options
-            string connectionString = SqlStringAADInteractive(username, server, database);
-
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            Dictionary<string, string> credentials = new()
             {
-                await conn.OpenAsync();
+                ["username"] = Username.Text,
+                ["server"] = Server.Text,
+                ["database"] = Database.Text
+            };
+
+        // If relevant create multiple methods and a switch method to allow users to select login options
+        string connectionString = SqlStringAADInteractive(credentials);
+
+            using (SqlConnection SqlConnection = new SqlConnection(connectionString))
+            {
+                await SqlConnection.OpenAsync();
                 Trace.WriteLine("Connected successfully!");
+                TableWindow tableWindow = new(SqlConnection, credentials);
+                this.Close();
+                tableWindow.Show();
             }
         }
 
-        private string SqlStringAADInteractive(string username, string server, string database)
+        private string SqlStringAADInteractive(Dictionary<string,string> credentials)
         {
-            string connectionString = @"Server=" + server +
-                "; Authentication = Active Directory Interactive" +
-                ";Database=" + database +
-                "; User Id = " + username;
+            string connectionString = @"Server=" + credentials["server"] +
+                ";Authentication = Active Directory Interactive" +
+                ";Database=" + credentials["database"] +
+                ";User Id=" + credentials["username"];
+
             return connectionString;
         }
     }

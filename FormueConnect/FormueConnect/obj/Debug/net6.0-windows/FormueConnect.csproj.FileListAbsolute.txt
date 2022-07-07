@@ -40,3 +40,5 @@ C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\FormueConnect\FormueConnect\ob
 C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\FormueConnect\FormueConnect\obj\Debug\net6.0-windows\FormueConnect.pdb
 C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\FormueConnect\FormueConnect\obj\Debug\net6.0-windows\FormueConnect.genruntimeconfig.cache
 C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\FormueConnect\FormueConnect\obj\Debug\net6.0-windows\ref\FormueConnect.dll
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\FormueConnect\FormueConnect\obj\Debug\net6.0-windows\TableWindow.g.cs
+C:\Users\ChrisAlbertsen\Desktop\SmartLearning\git\FormueConnect\FormueConnect\obj\Debug\net6.0-windows\TableWindow.baml
